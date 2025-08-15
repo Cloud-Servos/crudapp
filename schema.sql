@@ -9,7 +9,7 @@ flush privileges;
 
 use test
 
-CREATE TABLE Students (
+CREATE TABLE students (
     student_id INT AUTO_INCREMENT PRIMARY KEY,
     student_name VARCHAR(100),
     student_age INT,
